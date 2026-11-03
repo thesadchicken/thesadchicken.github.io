@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "rom": "rom/pet_v1.gb",
+  "project": {
+    "name": "pet_v1",
+    "author": "valy"
+  },
+  "colorCorrection": "default",
+  "customControls": {
+    "up": [
+      "ArrowUp",
+      "w"
+    ],
+    "down": [
+      "ArrowDown",
+      "s"
+    ],
+    "left": [
+      "ArrowLeft",
+      "a"
+    ],
+    "right": [
+      "ArrowRight",
+      "d"
+    ],
+    "a": [
+      "Alt",
+      "z",
+      "j"
+    ],
+    "b": [
+      "Control",
+      "k",
+      "x"
+    ],
+    "start": [
+      "Enter"
+    ],
+    "select": [
+      "Shift"
+    ]
+  }
+}
